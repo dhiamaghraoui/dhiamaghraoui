@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhia Maghraoui</h1>
 <h3 align="center">A part time js developer from Tunisia</h3>
 
-<img aligne="right" alt="coding" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meosis.fr%2Factualites%2Fconnaissez-vous-le-metier-de-developpeur-15560.html%2Fattachment%2Fgif-code&psig=AOvVaw12VpxlGr5XMn9rGCc-nyL4&ust=1664361314936000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKCCw_bktPoCFQAAAAAdAAAAABAD.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiamaghraoui&label=Profile%20views&color=0e75b6&style=flat" alt="dhiamaghraoui" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

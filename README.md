@@ -19,6 +19,6 @@ I'm Dhia from Tunisia, and I do Frontend JS Development, and i have top-notch de
  <hr>
 
 - 📫 How to reach me:
- - dhiamaghraoui28@gmail.com <p>
+   dhiamaghraoui28@gmail.com <p>
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dhia_maghraoui/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhiamaghraoui)                                                                    
  

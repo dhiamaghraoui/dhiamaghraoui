@@ -1,6 +1,8 @@
+
+![I am Frontend JS Developer](https://c4.wallpaperflare.com/wallpaper/815/965/235/code-coding-knowledge-logic-wallpaper-preview.jpg)
+
 # Dhia Maghraoui
 #### I am Frontend JS Developer
-![I am Frontend JS Developer](https://c4.wallpaperflare.com/wallpaper/815/965/235/code-coding-knowledge-logic-wallpaper-preview.jpg)
 
 I'm Dhia from Tunisia, and I do Frontend JS Development, and i have top-notch development skills and in-depth knowledge of modern HTML/CSS/JS/REACT, also I really enjoy learning languages and frameworks
 

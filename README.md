@@ -1,5 +1,5 @@
 
-<img src="https://c4.wallpaperflare.com/wallpaper/815/965/235/code-coding-knowledge-logic-wallpaper-preview.jpg" height=100px >
+<img src="https://c4.wallpaperflare.com/wallpaper/815/965/235/code-coding-knowledge-logic-wallpaper-preview.jpg" height=350px width= 1000px>
 
 # Dhia Maghraoui
 <hr color=black">

@@ -8,7 +8,7 @@ I'm an independent Frontend JS Development from Tunisia,,i have top-notch develo
 
  <hr>
  
-                                              <h2> My favorite code ever <h2>
+<h3> My favorite code ever <h3>
 <img src="https://c4.wallpaperflare.com/wallpaper/815/965/235/code-coding-knowledge-logic-wallpaper-preview.jpg" height=350px width= 1000px>
 
  <hr>
